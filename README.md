@@ -4,6 +4,8 @@
 
 Preview : https://streamable.com/wuvgkw
 
+Script baser : https://github.com/H4ci/h4ci_locajetski
+
 -------------------------------------------------------------------------- FR -----------------------------------------------------------------------------------------------
 
 --En cas de probleme ou d'erreur :
